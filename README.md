@@ -1,7 +1,7 @@
 # Sundown Studio Website Clone
 
 ## 📌 Overview
-This is a **fully responsive** clone of the [Sundown Studio](https://sundown-studio.com/) website, built to showcase frontend development skills using **HTML, CSS, and JavaScript**. The project replicates the design, animations, and user interactions of the original website.
+This is a **fully responsive** clone of the Sundown Studio website, built to showcase frontend development skills using **HTML, CSS, and JavaScript**. The project replicates the design, animations, and user interactions of the original website.
 
 ## 🚀 Features
 - **Modern UI Design** with smooth transitions
